@@ -8,7 +8,6 @@ Olá, seja bem vindo(a) ao meu perfil. Eu me chamo Victor Lucas e sou estudante 
 - Estudante da Fatec Americana
 - Desenvolvedor Full-Stack
 - ✨Apaxionado por tecnologia ✨
-- 
 ## Linguagens favoritas
 
 - Javascript (Node.JS, React.JS)
