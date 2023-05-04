@@ -3,15 +3,13 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Olá, seja bem vindo(a) ao meu perfil. Eu me chamo Victor Lucas e sou estudante de análise e desenvolvimento de sistemas na Fatec.
+# 0xdeadbeef and 0xc0decafe 
 
-- Estudante da Fatec Americana
 - Desenvolvedor Full-Stack
 - ✨Apaxionado por tecnologia ✨
 ## Linguagens favoritas
 
-- Javascript (Node.JS, React.JS)
-- HTML5;
-- Css3;
-- Linguagem C;
-- Python
+- Javascript - (Node.JS, React.JS) e Typescript;
+- PHP - (Laravel);
+- C/C++ (Desenvolvimento Driver Linux ELF X86_64, X86);
+- Python (Skills de automação)
