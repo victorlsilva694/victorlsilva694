@@ -1,5 +1,4 @@
-# Seja bem vindo(a)!
-## Victor Lucas da Silva
+# Seja bem vindo(a)! Victor Lucas da Silva
 
 ## 0xdeadbeef and 0xc0decafe -> Linguagens favoritas
 
