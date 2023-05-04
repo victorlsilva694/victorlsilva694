@@ -1,6 +1,6 @@
 # Seja bem vindo(a)! Victor Lucas da Silva
 
-## 0xdeadbeef and 0xc0decafe -> Linguagens favoritas
+0xdeadbeef and 0xc0decafe -> Linguagens favoritas
 
 - Javascript - (Node.JS, React.JS) e Typescript;
 - PHP - (Laravel);
