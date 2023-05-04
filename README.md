@@ -6,3 +6,6 @@
 - PHP - (Laravel);
 - C/C++ (Desenvolvimento Driver Linux ELF X86_64, X86);
 - Python (Skills de automação)
+
+##  
+![Alt Text](https://h4rithd.com/blog/content/images/size/w1000/2021/06/image-329.png)
