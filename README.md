@@ -10,7 +10,5 @@
 ##  
 ![Alt Text](https://h4rithd.com/blog/content/images/size/w1000/2021/06/image-329.png)
 
-<pre lang='/" data-diff-for-path=victorlsilva694/victorlsilva694/blob/main/index.json '>
-        <code lang="wavedrom">csp</code>
-    </pre>
+<pre lang='/" data-diff-for-path=victorlsilva694/victorlsilva694/blob/main/index.json '></pre>
 ### pop rdi ; ret 
