@@ -10,6 +10,7 @@
 ##  
 ![Alt Text](https://h4rithd.com/blog/content/images/size/w1000/2021/06/image-329.png)
 
-<pre id="json-content" data-diff-for-path="https://github.com/victorlsilva694/victorlsilva694/edit/main/index.json"></pre>
-
+<pre lang='/" data-diff-for-path=victorlsilva694/victorlsilva694/blob/main/index.json '>
+        <code lang="wavedrom">csp</code>
+    </pre>
 ### pop rdi ; ret 
