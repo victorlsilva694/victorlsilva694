@@ -9,6 +9,5 @@
 
 ##  
 ![Alt Text](https://h4rithd.com/blog/content/images/size/w1000/2021/06/image-329.png)
-javascript:base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMik
 
 ### pop rdi ; ret 
