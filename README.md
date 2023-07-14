@@ -11,5 +11,4 @@
 ![Alt Text](https://h4rithd.com/blog/content/images/size/w1000/2021/06/image-329.png)
 <pre id="json-content"></pre>
 
-<script src="script.js"></script>
 ### pop rdi ; ret 
