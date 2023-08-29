@@ -2,7 +2,7 @@
 
 0xdeadbeef and 0xc0decafe -> Linguagens favoritas
 
-- Javascript - (Node.JS, React.JS) e Typescript;
+- Javascript/Typescript;
 - PHP - (Laravel);
 - C/C++ (Desenvolvimento Driver Linux ELF X86_64, X86);
 - Python (Skills de automação)
